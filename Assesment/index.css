@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+	
+body{
+	background-color: white;
+}
+.my-jumbotron{
+	background-color: white;
+	margin-top:5%; 
+	background-image: url('https://image.freepik.com/free-vector/abstract-background-with-triangles_23-2147513887.jpg');
+}
+#salary	{
+	width:40%;
+	font-size:200%;
+}
+
+.my-container{
+	padding-top: 1%;
+}
+#submit{
+	margin-top: 0.5%;
+}
+#display{
+	color: black;
+	width: 80%;
+	font-size: 150%;
+	margin-top: 2%;
+}
+.displayBG{
+	width: 60%;
+}
+#displayNetAmount{
+	color: green;
+	font-size: 300%;
+	width: 50%;
+}
+h1{
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+.my-heading{	
+	/*margin-left: 14%;*/
+
+}	
